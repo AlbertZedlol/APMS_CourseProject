@@ -1,0 +1,159 @@
+[Employee profile]
+Personal   information:
+        Name:         Alice Watson              Age  :35                Sex:female
+Vocational information:
+        ID:           1001140987
+        Post:         Technician                Rank :7                 KPI:80
+        Base salary:  US$110000                 Bonus:US$2000
+        Customer Approval:70
+        Patents published:5
+
+[Employee profile]
+Personal   information:
+        Name:         Bob Daniel                Age  :40                Sex:male
+Vocational information:
+        ID:           1005147654
+        Post:         Technician                Rank :4                 KPI:60
+        Base salary:  US$90000                  Bonus:US$300
+        Customer Approval:60
+        Patents published:3
+
+[Employee profile]
+Personal   information:
+        Name:         Cathy Williams            Age  :26                Sex:female
+Vocational information:
+        ID:           1003003210
+        Post:         Technician                Rank :7                 KPI:90
+        Base salary:  US$130000                 Bonus:US$5000
+        Customer Approval:100
+        Patents published:12
+
+[Employee profile]
+Personal   information:
+        Name:         Sam Smith                 Age  :45                Sex:sex minority
+Vocational information:
+        ID:           1004032797
+        Post:         Technician                Rank :2                 KPI:40
+        Base salary:  US$80000                  Bonus:US$0
+        Customer Approval:30
+        Patents published:4
+
+[Employee profile]
+Personal   information:
+        Name:         Dylan Walker              Age  :45                Sex:male
+Vocational information:
+        ID:           1002980987
+        Post:         Financial Analyst         Rank :9                 KPI:90
+        Base salary:  US$200000                 Bonus:US$3000
+        Customer Approval:100
+        Financial reports finished:120
+
+[Employee profile]
+Personal   information:
+        Name:         Elvis Brandy              Age  :50                Sex:male
+Vocational information:
+        ID:           1007956789
+        Post:         Financial Analyst         Rank :8                 KPI:95
+        Base salary:  US$120000                 Bonus:US$9000
+        Customer Approval:90
+        Financial reports finished:23
+
+[Employee profile]
+Personal   information:
+        Name:         Francis Soya              Age  :35                Sex:female
+Vocational information:
+        ID:           1003306523
+        Post:         Financial Analyst         Rank :4                 KPI:78
+        Base salary:  US$90000                  Bonus:US$1000
+        Customer Approval:80
+        Financial reports finished:14
+
+[Employee profile]
+Personal   information:
+        Name:         Gregory George            Age  :50                Sex:male
+Vocational information:
+        ID:           1005406942
+        Post:         Financial Analyst         Rank :8                 KPI:90
+        Base salary:  US$130000                 Bonus:US$9000
+        Customer Approval:100
+        Financial reports finished:3
+
+[Employee profile]
+Personal   information:
+        Name:         Albert Sonny              Age  :55                Sex:male
+Vocational information:
+        ID:           1002002202
+        Post:         Team Leader               Rank :5                 KPI:75
+        Base salary:  US$90000                  Bonus:US$1000
+        Complaints:   30                        Projects Completed:12
+        Duty:         Lead team members to do market research
+        Team size:    1
+Team members:
+
+
+[Employee profile]
+Personal   information:
+        Name:         Epsilon Joke              Age  :35                Sex:sex minority
+Vocational information:
+        ID:           1002002101
+        Post:         Team Leader               Rank :8                 KPI:40
+        Base salary:  US$120000                 Bonus:US$1000
+        Complaints:   80                        Projects Completed:10
+        Duty:         Lead team to make strategic planning
+        Team size:    1
+Team members:
+
+
+[Employee profile]
+Personal   information:
+        Name:         Iota Hawking              Age  :40                Sex:female
+Vocational information:
+        ID:           1002002304
+        Post:         Team Leader               Rank :9                 KPI:100
+        Base salary:  US$150000                 Bonus:US$40000
+        Complaints:   30                        Projects Completed:20
+        Duty:         Lead team to invent new products
+        Team size:    1
+Team members:
+
+[Employee profile]
+Personal   information:
+        Name:         Delta Makinson            Age  :45                Sex:male
+Vocational information:
+        ID:           1002003045
+        Post:         Team Leader               Rank :3                 KPI:45
+        Base salary:  US$10000                  Bonus:US$2000
+        Complaints:   12                        Projects Completed:13
+        Duty:         Make budget plans for the department
+        Team size:    5
+Team members:
+
+[Employee profile]
+Personal   information:
+        Name:         Lisa Jane                 Age  :45                Sex:female     
+Vocational information:
+        ID:           1000892
+        Post:         Financial Analyst         Rank :6                 KPI:90
+        Base salary:  US$1200000                Bonus:US$10000
+        Customer Approval:100
+        Financial reports finished:34
+
+[Employee profile]
+Personal   information:
+        Name:         Joshua Wang               Age  :40                Sex:sex minority
+Vocational information:
+        ID:           1007829
+        Post:         Financial Analyst         Rank :5                 KPI:87
+        Base salary:  US$20000000               Bonus:US$10000
+        Customer Approval:200040
+        Financial reports finished:10
+
+[Employee profile]
+Personal   information:
+        Name:         MilkyYankee               Age  :50                Sex:male       
+Vocational information:
+        ID:           1000283
+        Post:         Financial Analyst         Rank :6                 KPI:90
+        Base salary:  US$1400000                Bonus:US$123
+        Customer Approval:45
+        Financial reports finished:50
